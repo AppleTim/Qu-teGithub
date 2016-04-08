@@ -1,3 +1,3 @@
 Slt,
 Quête Git validé
-Fin!
+Fin
